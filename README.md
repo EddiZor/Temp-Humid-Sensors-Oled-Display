@@ -1,3 +1,6 @@
+LINK DEL PROGETTO
+https://randomnerdtutorials.com/esp32-esp8266-dht-temperature-and-humidity-oled-display/
+
 # DHT Sensor & OLED Display Monitor
 
 Questo progetto legge i dati di temperatura e umidità da un sensore DHT11 o DHT22 e li visualizza in tempo reale su un display OLED I2C da 0.96 pollici (SSD1306). 
